@@ -60,6 +60,7 @@ plots_dir <- "results/visualizations"
 # SHARED RESOURCES
 # Path to maximal codebook library (institutional knowledge base)
 # This should point to your organization's shared maximal codebook
+# Don't have one yet? Just generate the basic codebook with your first survey, then save it as a maximal to get started.
 maximal_codebook_path <- "../utils/data_codebook/maximal_codebook.csv"
 
 # =============================================================================
